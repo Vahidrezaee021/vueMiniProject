@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.header{
+    font-size: 35px;
+    color: white;
+    height: 150px;
+    
+}
+
+.input-group{
+    top: -80px;
+    width: 50%;
+    margin: auto;
+}
