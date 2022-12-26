@@ -36,6 +36,18 @@
     right: 5px;
     top: 5px;
     bottom: 5px;
-    padding: 0px 10px 30px 10px;
+    padding: 0px 10px;
     
+}
+
+
+.list-group-item:hover{
+    background-color: #CFE2FF
+}
+
+
+.checked{
+    background-color: rgb(138, 136, 136);
+    text-decoration: line-through;
+
 }
